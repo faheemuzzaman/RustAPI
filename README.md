@@ -1,7 +1,7 @@
 
 
     git clone https://github.com/faheemuzzaman/RustAPI.git
-    cd rustAPIforHardware
+    cd RustAPI
 
     # run in one terminal
     openocd -f openocd.cfg
